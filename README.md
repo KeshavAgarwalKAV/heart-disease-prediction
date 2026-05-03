@@ -92,7 +92,7 @@ Top predictors identified via logistic regression coefficients:
 
 ```bash
 # Clone the repo
-git clone https://github.com/keshavagarwal/heart-disease-prediction
+git clone https://github.com/KeshavAgarwalKAV/heart-disease-prediction
 cd heart-disease-prediction
 
 # Install dependencies
@@ -121,7 +121,6 @@ heart-disease-prediction/
 │
 ├── end_to_end_heart_disease_classification.ipynb  # Main notebook
 ├── heart-disease.csv                               # Dataset
-├── requirements.txt
 └── README.md
 ```
 
